@@ -4,3 +4,4 @@
 ![homeworkone3](https://user-images.githubusercontent.com/97694988/151721619-0f41870d-db3b-46d0-84ac-7ef6d78e3c36.PNG)
 
 A small project about myself, interests, and background
+Veiwable web page: https://mdk-ou.github.io/About-me-Project/index.html
